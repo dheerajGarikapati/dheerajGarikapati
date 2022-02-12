@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheerajGarikapati
 - 👀 I’m interested in Clojure and Clojure Script
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me garikapati.dheeraj@gmail.com
 
 <!---
